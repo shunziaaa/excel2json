@@ -1,0 +1,7 @@
+{
+  "des": "",
+  "ReadDir" : "./Data",
+  "ReadSuffix" : ".xlsx",
+  "BuildDir" : "./Build",
+  "BuildSuffix" : ".json"
+}
